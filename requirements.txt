@@ -1,0 +1,12 @@
+numpy
+Pillow
+torch
+torchvision
+tensorboard
+onnx
+onnxruntime
+scikit-learn
+
+nuscenes-devkit
+pyquaternion
+shapely
